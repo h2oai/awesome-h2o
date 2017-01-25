@@ -6,16 +6,16 @@ A curated list of amazingly awesome theories, applications, and projects built u
 
 * [H2O sdklfs](http://link.springer.com/book/10.1007/978-1-4842-1311-7)
 * [Handbook of Big Data](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071)
-* [Computer Age Statistical Inference by Hastie and Efron] https://web.stanford.edu/~hastie/CASI/
+* [Computer Age Statistical Inference by Hastie and Efron](https://web.stanford.edu/~hastie/CASI/)
 
 ## Research Papers
 
 * [Normand R, Ferreira HA. (2015) Superchords: decoding EEG signals in the millisecond range.](https://dx.doi.org/10.7287/peerj.preprints.1265v1)
 * [Gilles Louppe, 2014. Understanding Random Forests: From Theory to Practice. PhD dissertation.](https://github.com/glouppe/phd-thesis)
-* ["Deep Learning and Association Rule Mining for Predicting Drug Response in Cancer."](http://dx.doi.org/10.1101/070490)
-* [](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf)
-* [](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml)
-* [LeDell, E. (2015) Scalable Ensemble Learning and Computationally Efficient Variance Estimation (Doctoral Dissertation). University of California, Berkeley, USA.](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf)
+* [Deep Learning and Association Rule Mining for Predicting Drug Response in Cancer.](http://dx.doi.org/10.1101/070490)
+* [The value of points of interest information in predicting cost-effective charging infrastructure locations.](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf)
+* [Adaptive modelling of spatial diversification of soil classification units](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml)
+* [LeDell, Erin. (2015) Scalable Ensemble Learning and Computationally Efficient Variance Estimation (Doctoral Dissertation). University of California, Berkeley, USA.](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf)
 
 ## Companies
 
