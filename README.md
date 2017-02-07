@@ -4,10 +4,10 @@ A curated list of amazingly awesome theories, applications, and projects built u
 
 ## Books
 
-* [Cook, Darren. Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI.](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X)
-* [Dinsmore, Thomas. 2016. Disruptive Analytics.](http://link.springer.com/book/10.1007/978-1-4842-1311-7)
-* [Peter Bühlmann, Petros Drineas, Michael Kane, Mark J. van Der Laan. Handbook of Big Data.](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071)
-* [Bradley Efron and Trevor Hastie. 2016. Computer Age Statistical Inference: Algorithms, Evidence, and Data Science. ](https://web.stanford.edu/~hastie/CASI/)
+* Cook, Darren. [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI.](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X)
+* Dinsmore, Thomas. [Disruptive Analytics. 2016.](http://link.springer.com/book/10.1007/978-1-4842-1311-7)
+* Peter Bühlmann, Petros Drineas, Michael Kane, Mark J. van Der Laan. [Handbook of Big Data.](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071)
+* [Bradley Efron and Trevor Hastie. [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science. 2016.](https://web.stanford.edu/~hastie/CASI/)
 
 ## Research Papers
 
