@@ -2,6 +2,11 @@
 
 A curated list of amazingly awesome theories, applications, and projects built using H2O. 
 
+## Blog Posts & Tutorials
+
+- [Deep Learning & Parameter Tuning with MXnet, H2o Package in R](http://blog.hackerearth.com/understanding-deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r) Jan 30, 2017
+
+
 ## Books
 
 * Cook, Darren. [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI.](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X)
