@@ -13,6 +13,7 @@ A curated list of amazingly awesome theories, applications, and projects built u
 * Dinsmore, Thomas. [Disruptive Analytics. 2016.](http://link.springer.com/book/10.1007/978-1-4842-1311-7)
 * Peter Bühlmann, Petros Drineas, Michael Kane, Mark J. van Der Laan. [Handbook of Big Data.](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071)
 * Bradley Efron and Trevor Hastie. [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science. 2016.](https://web.stanford.edu/~hastie/CASI/)
+* Wiley, Joshua F. [R Deep Learning Essentials.](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials)
 
 ## Research Papers
 
