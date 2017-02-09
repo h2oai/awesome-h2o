@@ -13,6 +13,7 @@ A curated list of amazingly awesome theories, applications, and projects built u
 * Efron, Bradley and Hastie, Trevor. [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science. 2016.](https://web.stanford.edu/~hastie/CASI/)
 * Bühlmann, Peter; Drineas, Petros; Kane, Michael; van Der Laan, Mark J. [Handbook of Big Data.](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071)
 * Wiley, Joshua F. [R Deep Learning Essentials.](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials)
+* Zečević, Petar and Bonaći, Marko. [Spark in Action](https://www.manning.com/books/spark-in-action)
 
 ## Research Papers
 
@@ -24,24 +25,6 @@ A curated list of amazingly awesome theories, applications, and projects built u
 * Urbański K., Gruszczyński S. [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development. No. 30 p. 127–139. DOI: 10.1515/jwld-2016-0029. 2016.](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml)
 * Visser, Stéphanie Florence. [The value of points of interest information in predicting cost-effective charging infrastructure locations. Master Thesis MSc.](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf)
 
-<!-- ## Companies
-
-* [CapitalOne](https://www.youtube.com/watch?v=L6a8oITd2L8): 
-* [Kaiser](https://www.youtube.com/watch?v=xm5Bjnw8Ycs):
-* [MarketShare](https://www.youtube.com/watch?v=e-_meTDc1HE&index=2&list=PLNtMya54qvOEMeVlP9OAnp0paCDBJiHCy):
-* [Zurich Insurance](https://www.youtube.com/watch?v=RI6CCA8rw-0):
-* [Comcast](https://www.youtube.com/watch?v=vtgGZuuyb9M):
-* [Hospital Corporation of America](https://www.youtube.com/watch?v=OYThnlcVD9g&list=PLNtMya54qvOHiqbwvBAFML74HsVyTqsnW&index=27):
-* [McKesson](https://www.youtube.com/watch?v=_1goCO_-mQE):
-* [Macy's](https://www.youtube.com/watch?v=DBuTgvOYfoo):
-* [eBay](https://www.youtube.com/watch?v=lu7_X_Ft-dg):
-* [PayPal](https://www.youtube.com/watch?v=-u--LeFltk4):
-* [Transamerica](https://www.youtube.com/watch?v=POiTk9CTjEM):
-* [Nielsen Catalina Solutions](https://www.youtube.com/watch?v=ZAnNx5VjFyM&list=PLNtMya54qvOEMeVlP9OAnp0paCDBJiHCy&index=3):
-* [Cisco](https://www.youtube.com/watch?v=yNfsnv9gjrU&list=PLNtMya54qvOFQhSZ4IKKXRbMkyLMn0caa&index=20):
-* [BetBuddy](https://www.datanami.com/2016/03/10/using-big-data-analytics-to-fight-gambling-addiction/):
-* [AndesQuants](http://www.andesquants.com/)
-* [Sopra Steria](https://www.soprasteria.com/en) -->
 
 ## Applications
 
