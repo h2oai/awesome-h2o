@@ -2,6 +2,8 @@
 
 A curated list of amazingly awesome theories, applications, and projects built using H2O. 
 
+We are just getting started with this list, so pull requests are very much appreciated!
+
 ## Blog Posts & Tutorials
 
 * [Deep Learning & Parameter Tuning with MXnet, H2o Package in R](http://blog.hackerearth.com/understanding-deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r) Jan 30, 2017
@@ -26,7 +28,10 @@ A curated list of amazingly awesome theories, applications, and projects built u
 * Visser, Stéphanie Florence. [The value of points of interest information in predicting cost-effective charging infrastructure locations. Master Thesis MSc.](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf)
 
 
-## Applications
+## Benchmarks
+
+- [Deep Learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) March 7, 2016
+- [Machine Learning Benchmark](https://github.com/szilard/benchm-ml) June, 2015
 
 ## License
 
