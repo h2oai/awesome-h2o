@@ -30,7 +30,7 @@ In chronological order (most recent first):
 - Normand R, Ferreira HA. [Superchords: decoding EEG signals in the millisecond range. (2015)](https://dx.doi.org/10.7287/peerj.preprints.1265v1)
 - Urbański K., Gruszczyński S. [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development. No. 30 p. 127–139. DOI: 10.1515/jwld-2016-0029. 2016.](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml)
 - Visser, Stéphanie Florence. [The value of points of interest information in predicting cost-effective charging infrastructure locations. Master Thesis MSc.](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf)
-- Legara, Erika Fille T.; Monterola, Christopher P. [Inferring passenger types from commuter eigentravel matrices. Journal of Transportmetrica B: Transport Dynamics. DOI: 10.1080/21680566.2017.1291377](http://www.tandfonline.com/doi/abs/10.1080/21680566.2017.1291377?journalCode=ttrb20)
+- Legara, Erika Fille T.; Monterola, Christopher P. [Inferring passenger types from commuter eigentravel matrices. Journal of Transportmetrica B: Transport Dynamics. DOI: 10.1080/21680566.2017.1291377. 2017.](http://www.tandfonline.com/doi/abs/10.1080/21680566.2017.1291377?journalCode=ttrb20)
 
 ## Benchmarks
 
