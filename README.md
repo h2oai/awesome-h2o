@@ -23,7 +23,9 @@ We are just getting started with this list, so pull requests are very much appre
 
 ## Research Papers
 
-- Domingos, Silvio L.; Carvalho, Rommel N.; Carvalho, Ricardo S.; Ramos, Guilherme N. [Identifying IT purchases anomalies in the Brazilian Government Procurement System using Deep Learning](http://www.h2o.ai/wp-content/uploads/2017/01/Identifying-IT-purchases-anomalies-in-the-Brazilian-Government-Procurement-System-using-Deep-Learning.pdf)
+-  Silvio L. Domingos; Rommel N. Carvalho; Ricardo S. Carvalho; Guilherme N. Ramos [Identifying IT purchases anomalies in the Brazilian Government Procurement System using Deep Learning](http://ieeexplore.ieee.org/document/7838233/?reload=true)
+-  Rogério G. Lopes; Rommel N. Carvalho; Marcelo Ladeira; Ricardo S. Carvalho [Predicting Recovery of Credit Operations on a Brazilian Bank](http://ieeexplore.ieee.org/abstract/document/7838243/)
+- Ebberth L. Paula; Marcelo Ladeira; Rommel N. Carvalho; Thiago Marzagão [Deep Learning Anomaly Detection as Support Fraud Investigation in Brazilian Exports and Anti-Money Laundering](http://ieeexplore.ieee.org/abstract/document/7838276/)
 - Gilles Louppe, [Understanding Random Forests: From Theory to Practice. PhD dissertation. 2014.](https://github.com/glouppe/phd-thesis)
 - Konstantinos N Vougas, Thomas Jackson, Alexander Polyzos, Michael Liontos, Elizabeth O Johnson, Vassilis Georgoulias, Paul Townsend, Jiri Bartek, Vassilis G Gorgoulis. [Deep Learning and Association Rule Mining for Predicting Drug Response in Cancer. Preprint.](http://dx.doi.org/10.1101/070490)
 - LeDell, Erin. [Scalable Ensemble Learning and Computationally Efficient Variance Estimation (Doctoral Dissertation). 2015. University of California, Berkeley, USA.](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf)
