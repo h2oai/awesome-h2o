@@ -6,7 +6,7 @@ We are just getting started with this list, so pull requests are very much appre
 
 ## Blog Posts & Tutorials
 
-In chronological order (most recent first):
+[H2O.ai](http://www.h2o.ai/about/) produces many [tutorials](https://github.com/h2oai/h2o-tutorials) and [blog posts](http://blog.h2o.ai/) about H2O.  Below is a list of content produced by the greater H2O community (in chronological order, most recent first):
 
 - [Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart](https://shiring.github.io/machine_learning/2017/02/27/h2o) Feb 27, 2017
 - [Predicting food preferences with sparklyr (machine learning)](https://shiring.github.io/machine_learning/2017/02/19/food_spark) Feb 19, 2017
