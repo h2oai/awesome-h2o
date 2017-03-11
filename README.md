@@ -2,7 +2,9 @@
 
 A curated list of amazingly awesome research, applications, and projects built using H2O. 
 
-We are just getting started with this list, so pull requests are very much appreciated!
+We are just getting started with this list, so pull requests are very much appreciated!  🙏
+
+If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://github.com/h2oai/h2o-3/).
 
 ## Blog Posts & Tutorials
 
@@ -10,6 +12,7 @@ We are just getting started with this list, so pull requests are very much appre
 
 - [Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart](https://shiring.github.io/machine_learning/2017/02/27/h2o) Feb 27, 2017
 - [Predicting food preferences with sparklyr (machine learning)](https://shiring.github.io/machine_learning/2017/02/19/food_spark) Feb 19, 2017
+- [Moving largish data from R to H2O - spam detection with Enron emails](https://ellisp.github.io/blog/2017/02/18/svmlite) Feb 18, 2016
 - [Deep Learning & Parameter Tuning with MXnet, H2o Package in R](http://blog.hackerearth.com/understanding-deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r) Jan 30, 2017
 
 ## Books
