@@ -26,6 +26,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
+- Christopher Krauss; Xuan Anh Doa; Nicolas Huckb [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](http://www.sciencedirect.com/science/article/pii/S0377221716308657)
 -  Silvio L. Domingos; Rommel N. Carvalho; Ricardo S. Carvalho; Guilherme N. Ramos [Identifying IT purchases anomalies in the Brazilian Government Procurement System using Deep Learning](http://ieeexplore.ieee.org/document/7838233/?reload=true)
 -  Rogério G. Lopes; Rommel N. Carvalho; Marcelo Ladeira; Ricardo S. Carvalho [Predicting Recovery of Credit Operations on a Brazilian Bank](http://ieeexplore.ieee.org/abstract/document/7838243/)
 - Ebberth L. Paula; Marcelo Ladeira; Rommel N. Carvalho; Thiago Marzagão [Deep Learning Anomaly Detection as Support Fraud Investigation in Brazilian Exports and Anti-Money Laundering](http://ieeexplore.ieee.org/abstract/document/7838276/)
