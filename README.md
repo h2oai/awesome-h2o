@@ -48,6 +48,11 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [Deep Learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) March 7, 2016
 - [Machine Learning Benchmark](https://github.com/szilard/benchm-ml) June, 2015
 
+## Presentations
+
+- [Pipelines for model deployment](https://www.slideshare.net/rocalabern/digital-origin-pipelines-for-model-deployment) April 25, 2017
+- [Machine Learning with H2O.ai](https://speakerdeck.com/szilard/machine-learning-with-h2o-dot-ai-la-h2o-meetup-at-at-and-t-jan-2017) January 23, 2017
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
