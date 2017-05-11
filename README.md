@@ -19,12 +19,13 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Books
 
-- Cook, Darren. [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI.](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X)
-- Dinsmore, Thomas. [Disruptive Analytics. 2016.](http://link.springer.com/book/10.1007/978-1-4842-1311-7)
-- Efron, Bradley and Hastie, Trevor. [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science. 2016.](https://web.stanford.edu/~hastie/CASI/)
-- Bühlmann, Peter; Drineas, Petros; Kane, Michael; van Der Laan, Mark J. [Handbook of Big Data.](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071)
-- Wiley, Joshua F. [R Deep Learning Essentials.](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials)
-- Zečević, Petar and Bonaći, Marko. [Spark in Action](https://www.manning.com/books/spark-in-action)
+- Ramasubramanian, Karthik and Singh, Abhishek [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330) (2016)
+- Cook, Darren. [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI.](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X) (2016)
+- Dinsmore, Thomas. [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7) (2016)
+- Efron, Bradley and Hastie, Trevor. [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI/) (2016)
+- Wiley, Joshua F. [R Deep Learning Essentials.](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials) (2016)
+- Zečević, Petar and Bonaći, Marko. [Spark in Action](https://www.manning.com/books/spark-in-action) (2016)
+- Bühlmann, Peter; Drineas, Petros; Kane, Michael; van Der Laan, Mark J. [Handbook of Big Data.](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071) (2015)
 
 ## Research Papers
 
