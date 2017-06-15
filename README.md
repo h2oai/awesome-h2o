@@ -29,8 +29,9 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
+- Laura Acion, Diana Kelmansky, Mark van der Laan, Ethan Sahker, DeShauna Jones, Stephan Arnd [Use of a machine learning framework to predict substance use disorder treatment success](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0175383&type=printable) (2017)
 - Janis Tiemann, Johannes Pillmann and Christian Wietfeld [Ultra-Wideband Antenna-Induced Error Predictionusing Deep Learning on Channel Response Data](https://www.kn.e-technik.tu-dortmund.de/.cni-bibliography/publications/cni-publications/Tiemann2017a.pdf)
-- Christopher Krauss; Xuan Anh Doa; Nicolas Huckb [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](http://www.sciencedirect.com/science/article/pii/S0377221716308657)
+- Christopher Krauss; Xuan Anh Doa; Nicolas Huckb [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](http://www.sciencedirect.com/science/article/pii/S0377221716308657) (2016)
 -  Silvio L. Domingos; Rommel N. Carvalho; Ricardo S. Carvalho; Guilherme N. Ramos [Identifying IT purchases anomalies in the Brazilian Government Procurement System using Deep Learning](http://ieeexplore.ieee.org/document/7838233/?reload=true)
 -  Rogério G. Lopes; Rommel N. Carvalho; Marcelo Ladeira; Ricardo S. Carvalho [Predicting Recovery of Credit Operations on a Brazilian Bank](http://ieeexplore.ieee.org/abstract/document/7838243/)
 - Ebberth L. Paula; Marcelo Ladeira; Rommel N. Carvalho; Thiago Marzagão [Deep Learning Anomaly Detection as Support Fraud Investigation in Brazilian Exports and Anti-Money Laundering](http://ieeexplore.ieee.org/abstract/document/7838276/)
@@ -41,7 +42,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - Urbański K., Gruszczyński S. [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development. No. 30 p. 127–139. DOI: 10.1515/jwld-2016-0029. 2016.](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml)
 - Visser, Stéphanie Florence. [The value of points of interest information in predicting cost-effective charging infrastructure locations. Master Thesis MSc.](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf)
 - Legara, Erika Fille T.; Monterola, Christopher P. [Inferring passenger types from commuter eigentravel matrices. Journal of Transportmetrica B: Transport Dynamics. DOI: 10.1080/21680566.2017.1291377. 2017.](http://www.tandfonline.com/doi/abs/10.1080/21680566.2017.1291377?journalCode=ttrb20)
-- Krauss, Christopher; Do, Xuan Anh; Huck, Nicholas [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500 (2016)](http://dx.doi.org/10.1016/j.ejor.2016.10.031)
+
 
 ## Benchmarks
 
