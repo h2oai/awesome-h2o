@@ -55,6 +55,10 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [Pipelines for model deployment](https://www.slideshare.net/rocalabern/digital-origin-pipelines-for-model-deployment) April 25, 2017
 - [Machine Learning with H2O.ai](https://speakerdeck.com/szilard/machine-learning-with-h2o-dot-ai-la-h2o-meetup-at-at-and-t-jan-2017) January 23, 2017
 
+## Courses
+
+- [UCLA STATS 418 - Tools in Data Science](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) (Masters of Applied Statistics Program)
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
