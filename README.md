@@ -58,7 +58,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 ## Courses
 
 - [UCLA STATS 418 - Tools in Data Science](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) (Masters of Applied Statistics Program)
-- [GWU Decision Sciences 6279 - Data Mining](https://github.com/jphall663/GWU_data_mining)(Masters of Science in Business Analytics)
+- [GWU Decision Sciences 6279 - Data Mining](https://github.com/jphall663/GWU_data_mining) (Masters of Science in Business Analytics)
 
 ## Utilities
 
