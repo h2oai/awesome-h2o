@@ -1,6 +1,6 @@
 # Awesome H2O [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Powered by H2O.ai](https://img.shields.io/badge/powered%20by-h2oai-yellow.svg)](https://github.com/h2oai/)
 
-A curated list of amazingly awesome research, applications, and projects built using H2O. 
+A curated list of amazingly awesome research, applications, and projects built using H2O.
 
 We are just getting started with this list, so pull requests are very much appreciated!  🙏
 
@@ -58,6 +58,11 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 ## Courses
 
 - [UCLA STATS 418 - Tools in Data Science](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) (Masters of Applied Statistics Program)
+- [GWU Decision Sciences 6279 - Data Mining](https://github.com/jphall663/GWU_data_mining)(Masters of Science in Business Analytics)
+
+## Utilities
+
+- [Spin up PySpark and PySparkling on AWS](https://github.com/kcrandall/EMR_Spark_Automation)
 
 ## License
 
