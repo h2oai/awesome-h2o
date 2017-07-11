@@ -29,6 +29,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
+- Reena Shaw Muthalaly [Using Deep Learning to Predict the Mortality of Leukemia Patients](https://qspace.library.queensu.ca/bitstream/handle/1974/15929/Muthalaly_Reena%20S_201707_MSC.pdf) (Master's Thesis, 2017)
 - Laura Acion, Diana Kelmansky, Mark van der Laan, Ethan Sahker, DeShauna Jones, Stephan Arnd [Use of a machine learning framework to predict substance use disorder treatment success](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0175383&type=printable) (2017)
 - Janis Tiemann, Johannes Pillmann and Christian Wietfeld [Ultra-Wideband Antenna-Induced Error Predictionusing Deep Learning on Channel Response Data](https://www.kn.e-technik.tu-dortmund.de/.cni-bibliography/publications/cni-publications/Tiemann2017a.pdf)
 - Christopher Krauss; Xuan Anh Doa; Nicolas Huckb [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](http://www.sciencedirect.com/science/article/pii/S0377221716308657) (2016)
