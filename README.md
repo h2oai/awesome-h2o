@@ -29,6 +29,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
+- Kara E. Rudolph, Oleg Sofrygin, Wenjing Zheng, and Mark J. van der Laan [Robust and flexible estimation of data-dependent stochastic mediation effects: a proposed method and example in a randomized trial setting](https://arxiv.org/pdf/1707.09021.pdf) (2017)
 - Vincent Dorie, Jennifer Hill, Uri Shalit, Marc Scott, Dan Cervone [Automated versus do-it-yourself methods for causal inference: Lessons learned from a data analysis competition](https://arxiv.org/abs/1707.02641) (2017)
 - Reena Shaw Muthalaly [Using Deep Learning to Predict the Mortality of Leukemia Patients](https://qspace.library.queensu.ca/bitstream/handle/1974/15929/Muthalaly_Reena%20S_201707_MSC.pdf) (Master's Thesis, 2017)
 - Laura Acion, Diana Kelmansky, Mark van der Laan, Ethan Sahker, DeShauna Jones, Stephan Arnd [Use of a machine learning framework to predict substance use disorder treatment success](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0175383&type=printable) (2017)
