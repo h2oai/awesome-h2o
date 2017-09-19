@@ -29,6 +29,8 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
+- Andrés Arévalo, Jaime Niño, German Hernandez, Javier Sandoval, Diego León, Arbey Aragón [Algorithmic Trading Using Deep Neural Networks on High Frequency Data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) (2017)
+- Jacob W. Kamminga, Helena C. Bisby, Duc V. Le, Nirvana Meratnia, Paul J. M. Havinga [Generic online animal activity recognition on collar tags](https://dl.acm.org/citation.cfm?id=3124407) (2017)
 - Kara E. Rudolph, Oleg Sofrygin, Wenjing Zheng, and Mark J. van der Laan [Robust and flexible estimation of data-dependent stochastic mediation effects: a proposed method and example in a randomized trial setting](https://arxiv.org/pdf/1707.09021.pdf) (2017)
 - Vincent Dorie, Jennifer Hill, Uri Shalit, Marc Scott, Dan Cervone [Automated versus do-it-yourself methods for causal inference: Lessons learned from a data analysis competition](https://arxiv.org/abs/1707.02641) (2017)
 - Reena Shaw Muthalaly [Using Deep Learning to Predict the Mortality of Leukemia Patients](https://qspace.library.queensu.ca/bitstream/handle/1974/15929/Muthalaly_Reena%20S_201707_MSC.pdf) (Master's Thesis, 2017)
