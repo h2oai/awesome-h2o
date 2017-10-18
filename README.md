@@ -10,6 +10,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 [H2O.ai](http://www.h2o.ai/about/) produces many [tutorials](https://github.com/h2oai/h2o-tutorials) and [blog posts](http://blog.h2o.ai/) about H2O.  Below is a list of content produced by the greater H2O community (in chronological order, most recent first):
 
+- [HR Analytics: Using machine learning to predict employee turnover](http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html) Sept 18, 2017
 - [Autoencoders and anomaly detection with machine learning in fraud analytics ](https://shiring.github.io/machine_learning/2017/05/01/fraud) May 1, 2017
 - [Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart](https://shiring.github.io/machine_learning/2017/02/27/h2o) Feb 27, 2017
 - [Predicting food preferences with sparklyr (machine learning)](https://shiring.github.io/machine_learning/2017/02/19/food_spark) Feb 19, 2017
