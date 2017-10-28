@@ -10,13 +10,14 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 [H2O.ai](http://www.h2o.ai/about/) produces many [tutorials](https://github.com/h2oai/h2o-tutorials) and [blog posts](http://blog.h2o.ai/) about H2O.  Below is a list of content produced by the greater H2O community (in chronological order, most recent first):
 
+- [Time series machine learning with h2o+timetk](http://www.business-science.io/code-tools/2017/10/28/demo_week_h2o.html) Oct 28, 2017
 - [Sales Analytics: How to use machine learning to predict and optimize product backorders](http://www.business-science.io/business/2017/10/16/sales_backorder_prediction.html) Oct 16, 2017
 - [HR Analytics: Using machine learning to predict employee turnover](http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html) Sept 18, 2017
 - [Autoencoders and anomaly detection with machine learning in fraud analytics ](https://shiring.github.io/machine_learning/2017/05/01/fraud) May 1, 2017
 - [Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart](https://shiring.github.io/machine_learning/2017/02/27/h2o) Feb 27, 2017
 - [Predicting food preferences with sparklyr (machine learning)](https://shiring.github.io/machine_learning/2017/02/19/food_spark) Feb 19, 2017
 - [Moving largish data from R to H2O - spam detection with Enron emails](https://ellisp.github.io/blog/2017/02/18/svmlite) Feb 18, 2016
-- [Deep Learning & Parameter Tuning with MXnet, H2o Package in R](http://blog.hackerearth.com/understanding-deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r) Jan 30, 2017
+- [Deep learning & parameter tuning with mxnet, h2o package in R](http://blog.hackerearth.com/understanding-deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r) Jan 30, 2017
 - [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/) Oct 28, 2016
 
 ## Books
