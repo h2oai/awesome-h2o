@@ -1,14 +1,22 @@
 # Awesome H2O [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Powered by H2O.ai](https://img.shields.io/badge/powered%20by-h2oai-yellow.svg)](https://github.com/h2oai/)
 
-A curated list of amazingly awesome research, applications, and projects built using H2O.
+Below is a curated list of all the awesome projects, applications, research, tutorials, courses and books that use H2O.  [H2O.ai](http://www.h2o.ai/about/) produces many [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) and [videos](https://www.youtube.com/user/0xdata) about H2O, but below is a list of awesome content produced by the greater H2O community.
 
 We are just getting started with this list, so pull requests are very much appreciated!  🙏
 
 If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://github.com/h2oai/h2o-3/).
 
-## Blog Posts & Tutorials
+## Contents
+- [Blog Posts & Tutorials](#blog-posts--tutorials)
+- [Books](#books)
+- [Research Papers](#research-papers)
+- [Benchmarks](#benchmarks)
+- [Presentations](#presentations)
+- [Courses](#courses)
+- [Utilities](#utilities)
+- [License](#license)
 
-[H2O.ai](http://www.h2o.ai/about/) produces many [tutorials](https://github.com/h2oai/h2o-tutorials) and [blog posts](http://blog.h2o.ai/) about H2O.  Below is a list of content produced by the greater H2O community (in chronological order, most recent first):
+## Blog Posts & Tutorials
 
 - [Time series machine learning with h2o+timetk](http://www.business-science.io/code-tools/2017/10/28/demo_week_h2o.html) Oct 28, 2017
 - [Sales Analytics: How to use machine learning to predict and optimize product backorders](http://www.business-science.io/business/2017/10/16/sales_backorder_prediction.html) Oct 16, 2017
