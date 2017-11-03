@@ -1,6 +1,6 @@
 # Awesome H2O [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Powered by H2O.ai](https://img.shields.io/badge/powered%20by-h2oai-yellow.svg)](https://github.com/h2oai/)
 
-Below is a curated list of all the awesome projects, applications, research, tutorials, courses and books that use H2O.  [H2O.ai](http://www.h2o.ai/about/) produces many [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) and [videos](https://www.youtube.com/user/0xdata) about H2O, but below is a list of awesome content produced by the greater H2O community.
+Below is a curated list of all the awesome projects, applications, research, tutorials, courses and books that use H2O.  [H2O.ai](http://www.h2o.ai/about/) produces many [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) and [videos](https://www.youtube.com/user/0xdata) about H2O, but the list below is comprised of awesome content produced by the greater H2O user community.
 
 We are just getting started with this list, so pull requests are very much appreciated!  🙏
 
