@@ -68,7 +68,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 ## Presentations
 
 - [Pipelines for model deployment](https://www.slideshare.net/rocalabern/digital-origin-pipelines-for-model-deployment) April 25, 2017
-- [Machine Learning with H2O.ai](https://speakerdeck.com/szilard/machine-learning-with-h2o-dot-ai-la-h2o-meetup-at-at-and-t-jan-2017) January 23, 2017
+- [Machine learning with H2O.ai](https://speakerdeck.com/szilard/machine-learning-with-h2o-dot-ai-la-h2o-meetup-at-at-and-t-jan-2017) January 23, 2017
 
 ## Courses
 
