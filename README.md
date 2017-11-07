@@ -33,12 +33,12 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 ## Books
 
 - [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330) Karthik Ramasubramanian, Abhishek Singh. (2016)
-- [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI.](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X) Darren Cook. (2016)
+- [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X) Darren Cook. (2016)
 - [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7) Thomas Dinsmore. (2016)
 - [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI/) Bradley Efron, Trevor Hastie. (2016)
-- [R Deep Learning Essentials.](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials) Joshua F. Wiley. (2016)
+- [R Deep Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials) Joshua F. Wiley. (2016)
 - [Spark in Action](https://www.manning.com/books/spark-in-action) Petar Zečević, Marko Bonaći. (2016)
-- [Handbook of Big Data.](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071) Peter Bühlmann, Petros Drineas, Michael Kane, Mark J. van der Laan (2015)
+- [Handbook of Big Data](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071) Peter Bühlmann, Petros Drineas, Michael Kane, Mark J. van der Laan (2015)
 
 ## Research Papers
 
