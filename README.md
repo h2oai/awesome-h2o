@@ -4,7 +4,7 @@
 
 Below is a curated list of all the awesome projects, applications, research, tutorials, courses and books that use H2O.  [H2O.ai](http://www.h2o.ai/about/) produces many [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) and [videos](https://www.youtube.com/user/0xdata) about H2O, but the list below is comprised of awesome content produced by the greater H2O user community.
 
-We are just getting started with this list, so pull requests are very much appreciated!  🙏  Please review the [contribution guidelines](contributing.md) before making a pull request.
+We are just getting started with this list, so pull requests are very much appreciated!  🙏  Please review the [contribution guidelines](contributing.md) before making a pull request.  If you're not a GitHub user and want to make a contribution, please send an email to community@h2o.ai.
 
 If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://github.com/h2oai/h2o-3/).
 
@@ -22,7 +22,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 - [Time series machine learning with h2o+timetk](http://www.business-science.io/code-tools/2017/10/28/demo_week_h2o.html) Oct 28, 2017
 - [Sales Analytics: How to use machine learning to predict and optimize product backorders](http://www.business-science.io/business/2017/10/16/sales_backorder_prediction.html) Oct 16, 2017
-- [HR Analytics: Using machine learning to predict employee turnover](http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html) Sept 18, 2017
+- [HR Analytics: Using machine learning to predict employee turnover](http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html) Sep 18, 2017
 - [Autoencoders and anomaly detection with machine learning in fraud analytics ](https://shiring.github.io/machine_learning/2017/05/01/fraud) May 1, 2017
 - [Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart](https://shiring.github.io/machine_learning/2017/02/27/h2o) Feb 27, 2017
 - [Predicting food preferences with sparklyr (machine learning)](https://shiring.github.io/machine_learning/2017/02/19/food_spark) Feb 19, 2017
@@ -63,14 +63,14 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Benchmarks
 
-- [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/) Oct 28, 2016
-- [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) March 7, 2016
-- [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml) June, 2015
+- [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/) - Benchmark of categorical encoding schemes and the effect on tree based models (Scikit-learn vs H2O). Oct 28, 2016
+- [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) - Benchmark of open source deep learning packages in R. Mar 7, 2016
+- [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
 
 ## Presentations
 
-- [Pipelines for model deployment](https://www.slideshare.net/rocalabern/digital-origin-pipelines-for-model-deployment) April 25, 2017
-- [Machine learning with H2O.ai](https://speakerdeck.com/szilard/machine-learning-with-h2o-dot-ai-la-h2o-meetup-at-at-and-t-jan-2017) January 23, 2017
+- [Pipelines for model deployment](https://www.slideshare.net/rocalabern/digital-origin-pipelines-for-model-deployment) Apr 25, 2017
+- [Machine learning with H2O.ai](https://speakerdeck.com/szilard/machine-learning-with-h2o-dot-ai-la-h2o-meetup-at-at-and-t-jan-2017) Jan 23, 2017
 
 ## Courses
 
