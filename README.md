@@ -20,6 +20,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Blog Posts & Tutorials
 
+- [Analytics at Scale: h2o, Apache Spark and R on AWS EMR](https://redoakstrategic.com/h2oaws/) June 21, 2018
 - [Automated and unmysterious machine learning in cancer detection](https://kkulma.github.io/2017-11-07-automated_machine_learning_in_cancer_detection/) Nov 7, 2017
 - [Time series machine learning with h2o+timetk](http://www.business-science.io/code-tools/2017/10/28/demo_week_h2o.html) Oct 28, 2017
 - [Sales Analytics: How to use machine learning to predict and optimize product backorders](http://www.business-science.io/business/2017/10/16/sales_backorder_prediction.html) Oct 16, 2017
