@@ -2,7 +2,9 @@
 
 [<img src="https://rawgit.com/h2oai/awesome-h2o/master/h2o_logo.png" align="right" width="100">](https://github.com/h2oai/h2o-3)
 
-Below is a curated list of all the awesome projects, applications, research, tutorials, courses and books that use H2O.  [H2O.ai](http://www.h2o.ai/about/) produces many [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) and [videos](https://www.youtube.com/user/0xdata) about H2O, but the list below is comprised of awesome content produced by the greater H2O user community.
+Below is a curated list of all the awesome projects, applications, research, tutorials, courses and books that use [H2O](https://github.com/h2oai/h2o-3), an open source, distributed machine learning platform.  H2O offers parallelized implementations of many supervised and unsupervised machine learning algorithms such as Generalized Linear Models, Gradient Boosting Machines (including XGBoost), Random Forests, Deep Neural Networks (Deep Learning), Stacked Ensembles, Naive Bayes, Cox Proportional Hazards, K-means, PCA, Word2Vec, as well as a fully automatic machine learning algorithm (AutoML).
+
+[H2O.ai](http://www.h2o.ai/about/) produces many [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) and [videos](https://www.youtube.com/user/0xdata) about H2O, but the list below is comprised of awesome content produced by the greater H2O user community.
 
 We are just getting started with this list, so pull requests are very much appreciated!  🙏  Please review the [contribution guidelines](contributing.md) before making a pull request.  If you're not a GitHub user and want to make a contribution, please send an email to community@h2o.ai.
 
