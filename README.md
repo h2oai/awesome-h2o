@@ -22,6 +22,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Blog Posts & Tutorials
 
+- [Using machine learning with LIME to understand employee churn](http://www.business-science.io/business/2018/06/25/lime-local-feature-interpretation.html) June 25, 2018
 - [Analytics at Scale: h2o, Apache Spark and R on AWS EMR](https://redoakstrategic.com/h2oaws/) June 21, 2018
 - [Automated and unmysterious machine learning in cancer detection](https://kkulma.github.io/2017-11-07-automated_machine_learning_in_cancer_detection/) Nov 7, 2017
 - [Time series machine learning with h2o+timetk](http://www.business-science.io/code-tools/2017/10/28/demo_week_h2o.html) Oct 28, 2017
