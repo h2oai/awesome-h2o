@@ -21,7 +21,8 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [License](#license)
 
 ## Blog Posts & Tutorials
-
+- [Inspecting Decision Trees in H2O](https://dzone.com/articles/inspecting-decision-trees-in-h2o) Nov 07, 2018
+- [Machine Learning With H2O — Hands-On Guide for Data Scientists](https://dzone.com/articles/machine-learning-with-h2o-hands-on-guide-for-data) Jun 27, 2018
 - [Using machine learning with LIME to understand employee churn](http://www.business-science.io/business/2018/06/25/lime-local-feature-interpretation.html) June 25, 2018
 - [Analytics at Scale: h2o, Apache Spark and R on AWS EMR](https://redoakstrategic.com/h2oaws/) June 21, 2018
 - [Automated and unmysterious machine learning in cancer detection](https://kkulma.github.io/2017-11-07-automated_machine_learning_in_cancer_detection/) Nov 7, 2017
