@@ -21,6 +21,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [License](#license)
 
 ## Blog Posts & Tutorials
+- [Predicting residential property prices in Bratislava using recipes - H2O Machine learning](https://www.michal-kapusta.com/post/2018-11-02-predicting-residential-property-prices-in-bratislava-using-recipes-h2o-machine-learning-part-ii/) Nov 25, 2018
 - [Inspecting Decision Trees in H2O](https://dzone.com/articles/inspecting-decision-trees-in-h2o) Nov 07, 2018
 - [Machine Learning With H2O — Hands-On Guide for Data Scientists](https://dzone.com/articles/machine-learning-with-h2o-hands-on-guide-for-data) Jun 27, 2018
 - [Using machine learning with LIME to understand employee churn](http://www.business-science.io/business/2018/06/25/lime-local-feature-interpretation.html) June 25, 2018
