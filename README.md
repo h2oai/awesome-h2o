@@ -50,7 +50,8 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
-- [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs.](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf) (2018)
+- [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs.](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf) Giorgio Alfredo Spedicato, Christophe Dutang, and Leonardo Petrini. (2018)
+- [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940) Yuriy Kochura, Sergii Stirenko, Yuri Gordienko. (2017)
 - [Algorithmic trading using deep neural networks on high frequency data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) Andrés Arévalo, Jaime Niño, German Hernandez, Javier Sandoval, Diego León, Arbey Aragón. (2017)
 - [Generic online animal activity recognition on collar tags](https://dl.acm.org/citation.cfm?id=3124407) Jacob W. Kamminga, Helena C. Bisby, Duc V. Le, Nirvana Meratnia, Paul J. M. Havinga. (2017)
 - [Robust and flexible estimation of data-dependent stochastic mediation effects: a proposed method and example in a randomized trial setting](https://arxiv.org/pdf/1707.09021.pdf) Kara E. Rudolph, Oleg Sofrygin, Wenjing Zheng, and Mark J. van der Laan. (2017)
