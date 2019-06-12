@@ -51,6 +51,8 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
+- [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970) Fernando Itano, Ricardo Pires, Miguel Angelo de Abreu de Sousa, Emilio Del-Moral-Hernandeza. (2019)
+- [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)  Fernando Itano, Miguel Angelo de Abreu de Sousa, Emilio Del-Moral-Hernandez. (2018)
 - [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050) Gregory B. Auffenberg, Khurshid R. Ghani, Shreyas Ramani, Etiowo Usoro, Brian Denton, Craig Rogers, Benjamin Stockton, David C. Miller, Karandeep Singh. (2018)
 - [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf) Giorgio Alfredo Spedicato, Christophe Dutang, and Leonardo Petrini. (2018)
 - [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940) Yuriy Kochura, Sergii Stirenko, Yuri Gordienko. (2017)
