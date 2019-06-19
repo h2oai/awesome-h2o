@@ -41,6 +41,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Books
 
+- [Hands on Time Series with R](https://www2.packtpub.com/big-data-and-business-intelligence/hands-time-series-analysis-r) Rami Krispin. (2019)
 - [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330) Karthik Ramasubramanian, Abhishek Singh. (2016)
 - [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X) Darren Cook. (2016)
 - [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7) Thomas Dinsmore. (2016)
