@@ -21,6 +21,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [License](#license)
 
 ## Blog Posts & Tutorials
+- [Importing, Inspecting and Scoring with MOJO models inside H2O](https://www.pavel.cool/h2o-3/h2o-mojo-import/) Dec 10, 2019
 - [Anomaly Detection With Isolation Forests Using H2O](https://dzone.com/articles/anomaly-detection-with-isolation-forests-using-h2o-1) Dec 03, 2018
 - [Predicting residential property prices in Bratislava using recipes - H2O Machine learning](https://www.michal-kapusta.com/post/2018-11-02-predicting-residential-property-prices-in-bratislava-using-recipes-h2o-machine-learning-part-ii/) Nov 25, 2018
 - [Inspecting Decision Trees in H2O](https://dzone.com/articles/inspecting-decision-trees-in-h2o) Nov 07, 2018
