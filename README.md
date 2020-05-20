@@ -21,6 +21,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [License](#license)
 
 ## Blog Posts & Tutorials
+- [Visualizing ML Models with LIME](https://uc-r.github.io/lime)
 - [Parallel Grid Search in H2O ](https://www.pavel.cool/h2o-3/h2o-parallel-grid-search/) Jan 17, 2020
 - [Importing, Inspecting and Scoring with MOJO models inside H2O](https://www.pavel.cool/h2o-3/h2o-mojo-import/) Dec 10, 2019
 - [Artificial Intelligence Made Easy with H2O.ai: A Comprehensive Guide to Modeling with H2O.ai and AutoML in Python](https://towardsdatascience.com/artificial-intelligence-made-easy-187ecb90c299) June 12, 2019
