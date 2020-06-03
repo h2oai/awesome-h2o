@@ -58,6 +58,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 - [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190647/) Steven N. Hart, Eric C. Polley, Hermella Shimelis, Siddhartha Yadav, Fergus J. Couch (2020)
 - [Innovative deep learning artificial intelligence applications for predicting relationships between individual tree height and diameter at breast height](https://doi.org/10.1186/s40663-020-00226-3) İlker Ercanlı. (2020)
+- [An Open Source AutoML Benchmark](https://www.automl.org/wp-content/uploads/2019/06/automlws2019_Paper45.pdf) Peter Gijsbers, Erin LeDell, Sebastien Poirier, Janek Thomas, Berndt Bischl, Joaquin Vanschoren. (2019)
 - [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803) Sebastian Raschka, Joshua Patterson, Corey Nolet. (2019)
 - [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970) Fernando Itano, Ricardo Pires, Miguel Angelo de Abreu de Sousa, Emilio Del-Moral-Hernandeza. (2019)
 - [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)  Fernando Itano, Miguel Angelo de Abreu de Sousa, Emilio Del-Moral-Hernandez. (2018)
