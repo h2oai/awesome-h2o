@@ -17,7 +17,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [Benchmarks](#benchmarks)
 - [Presentations](#presentations)
 - [Courses](#courses)
-- [Utilities](#utilities)
+- [Utilities (built using H2O)](#utilities)
 - [License](#license)
 
 ## Blog Posts & Tutorials
@@ -110,6 +110,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 ## Utilities
 
 - [Spin up PySpark and PySparkling on AWS](https://github.com/kcrandall/EMR_Spark_Automation)
+- [h2oparsnip R package](https://github.com/stevenpawley/h2oparsnip): set of wrappers to bind h2o algorthms with the 'parsnip' package
 
 ## License
 
