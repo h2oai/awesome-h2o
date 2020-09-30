@@ -57,7 +57,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
-- [Stock Market Analysis using Stacked Ensemble Learning Method](https://github.com/malhartakle/MastersDissertation/blob/master/Research%20Project%20Report.pdf) Malkar Takle (Master's thesis)
+- [Stock Market Analysis using Stacked Ensemble Learning Method](https://github.com/malhartakle/MastersDissertation/blob/master/Research%20Project%20Report.pdf)  Malkar Takle. (2020)
 - [Single-cell mass cytometry on peripheral blood identifies immune cell subsets associated with primary biliary cholangitis](https://www.nature.com/articles/s41598-020-69358-4) Jin Sung Jang, Brian D. Juran, Kevin Y. Cunningham, Vinod K. Gupta, Young Min Son, Ju Dong Yang, Ahmad H. Ali, Elizabeth Ann L. Enninga, Jaeyun Sung & Konstantinos N. Lazaridis. (2020)
 - [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190647/) Steven N. Hart, Eric C. Polley, Hermella Shimelis, Siddhartha Yadav, Fergus J. Couch. (2020)
 - [Innovative deep learning artificial intelligence applications for predicting relationships between individual tree height and diameter at breast height](https://doi.org/10.1186/s40663-020-00226-3) İlker Ercanlı. (2020)
