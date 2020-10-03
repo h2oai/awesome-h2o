@@ -42,7 +42,6 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [Predicting food preferences with sparklyr (machine learning)](https://shiring.github.io/machine_learning/2017/02/19/food_spark) Feb 19, 2017
 - [Moving largish data from R to H2O - spam detection with Enron emails](https://ellisp.github.io/blog/2017/02/18/svmlite) Feb 18, 2016
 - [Deep learning & parameter tuning with mxnet, h2o package in R](http://blog.hackerearth.com/understanding-deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r) Jan 30, 2017
-- [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/) Oct 28, 2016
 
 ## Books
 
