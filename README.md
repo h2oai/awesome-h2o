@@ -17,7 +17,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [Benchmarks](#benchmarks)
 - [Presentations](#presentations)
 - [Courses](#courses)
-- [Utilities (built using H2O)](#utilities)
+- [Software (built using H2O)](#software)
 - [License](#license)
 
 ## Blog Posts & Tutorials
@@ -110,8 +110,10 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
 - [Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) - Advanced Machine Learning Specialization.
 
-## Utilities
+## Software
 
+- [Evaporate: Run H2O models in the browser via Javascript](https://github.com/ML4LHS/Evaporate).  More info [here](https://twitter.com/kdpsinghlab/status/1367992786239242248).
+- [splash R package: Splashing a User Interface onto H2O MOJO Files](https://github.com/ML4LHS/splash) More info [here](https://twitter.com/kdpsinghlab/status/1367809740705792008).
 - [Spin up PySpark and PySparkling on AWS](https://github.com/kcrandall/EMR_Spark_Automation)
 - [h2oparsnip R package](https://github.com/stevenpawley/h2oparsnip): set of wrappers to bind h2o algorthms with the 'parsnip' package
 
