@@ -112,6 +112,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Software
 
+- [modeltime.h2o: Forecasting with H2O AutoML](https://business-science.github.io/modeltime.h2o/)
 - [Evaporate: Run H2O models in the browser via Javascript](https://github.com/ML4LHS/Evaporate).  More info [here](https://twitter.com/kdpsinghlab/status/1367992786239242248).
 - [splash R package: Splashing a User Interface onto H2O MOJO Files](https://github.com/ML4LHS/splash).  More info [here](https://twitter.com/kdpsinghlab/status/1367809740705792008).
 - [Spin up PySpark and PySparkling on AWS](https://github.com/kcrandall/EMR_Spark_Automation)
