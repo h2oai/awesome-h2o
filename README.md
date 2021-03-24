@@ -21,6 +21,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [License](#license)
 
 ## Blog Posts & Tutorials
+- [How to run Logistic Regression in R using Deep Learning library H2o](https://www.nbshare.io/notebook/756634696/How-To-Run-Logistic-Regression-In-R/#how-to-run-logistic-regression-in-r-using-deep-learning-library-h2o) Mar 2, 2021
 - [Using H2O AutoML to simplify training process (and also predict wine quality)](https://enjoymachinelearning.com/posts/h2o-auto-machine-learning/) Aug 4, 2020
 - [Visualizing ML Models with LIME](https://uc-r.github.io/lime)
 - [Parallel Grid Search in H2O ](https://www.pavel.cool/h2o-3/h2o-parallel-grid-search/) Jan 17, 2020
