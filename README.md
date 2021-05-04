@@ -11,6 +11,7 @@ We are just getting started with this list, so pull requests are very much appre
 If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://github.com/h2oai/h2o-3/).
 
 ## Contents
+
 - [Blog Posts & Tutorials](#blog-posts--tutorials)
 - [Books](#books)
 - [Research Papers](#research-papers)
@@ -21,6 +22,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [License](#license)
 
 ## Blog Posts & Tutorials
+
 - [Using H2O AutoML to simplify training process (and also predict wine quality)](https://enjoymachinelearning.com/posts/h2o-auto-machine-learning/) Aug 4, 2020
 - [Visualizing ML Models with LIME](https://uc-r.github.io/lime)
 - [Parallel Grid Search in H2O ](https://www.pavel.cool/h2o-3/h2o-parallel-grid-search/) Jan 17, 2020
@@ -57,6 +59,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
+- [Machine Learning as a Tool for Improved Housing Price Prediction](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2739783/masterthesis.pdf?sequence=1) Henrik I W. Wolstad and Didrik Dewan. (2020)
 - [Citizen Science Data Show Temperature-Driven Declines in Riverine Sentinel Invertebrates](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00206) Timothy J. Maguire, Scott O. C. Mundle. (2020)
 - [Predicting Risk of Delays in Postal Deliveries with Neural Networks and Gradient Boosting Machines](https://www.diva-portal.org/smash/get/diva2:1467609/FULLTEXT01.pdf) Matilda Söderholm. (2020)
 - [Stock Market Analysis using Stacked Ensemble Learning Method](https://github.com/malhartakle/MastersDissertation/blob/master/Research%20Project%20Report.pdf)  Malkar Takle. (2020)
