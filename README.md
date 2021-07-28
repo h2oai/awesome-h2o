@@ -59,6 +59,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
+- [Maturity of gray matter structures and white matter connectomes, and their relationship with psychiatric symptoms in youth](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25565) Alex Luna, Joel Bernanke, Kakyeong Kim, Natalie Aw, Jordan D. Dworkin, Jiook Cha, Jonathan Posner (2021).
 - [Appendectomy during the COVID-19 pandemic in Italy: a multicenter ambispective cohort study by the Italian Society of Endoscopic Surgery and new technologies (the CRAC study)](https://pubmed.ncbi.nlm.nih.gov/34219197/) Alberto Sartori, Mauro Podda, Emanuele Botteri, Roberto Passera, Ferdinando Agresta, Alberto Arezzo. (2021) 
 - [Forecasting Canadian GDP Growth with Machine Learning](https://carleton.ca/economics/wp-content/uploads/cewp21-05.pdf) Shafiullah Qureshi, Ba Chu, Fanny S. Demers. (2021)
 - [Morphological traits of reef corals predict extinction risk but not conservation status](https://onlinelibrary.wiley.com/doi/10.1111/geb.13321) Nussaïbah B. Raja, Andreas Lauchstedt, John M. Pandolfi, Sun W. Kim, Ann F. Budd, Wolfgang Kiessling. (2021)
