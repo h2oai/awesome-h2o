@@ -128,7 +128,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [splash R package](https://github.com/ML4LHS/splash): Splashing a User Interface onto H2O MOJO Files.  More info [here](https://twitter.com/kdpsinghlab/status/1367809740705792008).
 - [h2oparsnip R package](https://github.com/stevenpawley/h2oparsnip): Set of wrappers to bind h2o algorthms with the [parsnip](https://parsnip.tidymodels.org/) package.
 - [Spin up PySpark and PySparkling on AWS](https://github.com/kcrandall/EMR_Spark_Automation)
-- [Forecast the US demand for electricity (dashboard)](https://github.com/RamiKrispin/USelectricity)
+- [Forecast the US demand for electricity](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
 
 ## License
 
