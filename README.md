@@ -60,6 +60,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
+- [Which model to choose? Performance comparison of statistical and machine learning models in predicting PM2.5 from high-resolution satellite aerosol optical depth](https://www.sciencedirect.com/science/article/abs/pii/S1352231022002291?dgcid=coauthor) Padmavati Kulkarnia, V.Sreekantha, Adithi R.Upadhyab, Hrishikesh ChandraGautama.  (2022)
 - [ Prospective validation of a transcriptomic severity classifier among patients with suspected acute infection and sepsis in the emergency department](https://pubmed.ncbi.nlm.nih.gov/35467566/) Noa Galtung, Eva Diehl-Wiesenecker, Dana Lehmann, Natallia Markmann, Wilma H Bergström, James Wacker, Oliver Liesenfeld, Michael Mayhew, Ljubomir Buturovic, Roland Luethy, Timothy E Sweeney , Rudolf Tauber, Kai Kappert, Rajan Somasundaram , Wolfgang Bauer. (2022)
 - [Depression Level Prediction in People with Parkinson’s Disease during the COVID-19 Pandemic](https://embc.embs.org/2021/)) Hashneet Kaur, Patrick Ka-Cheong Poon, Sophie Yuefei Wang, Diane Myung-kyung Woodbridge. (2021)
 - [Machine Learning-based Meal Detection Using Continuous Glucose Monitoring on Healthy Participants: An Objective Measure of Participant Compliance to Protocol](https://embc.embs.org/2021/) Victor Palacios, Diane Myung-kyung Woodbridge, Jean L. Fry. (2021)
