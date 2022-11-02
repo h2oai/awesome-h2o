@@ -122,7 +122,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [GWU: Data Mining (Decision Sciences 6279)](https://github.com/jphall663/GWU_data_mining) - Masters of Science in Business Analytics.
 - [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
 - [Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) - Advanced Machine Learning Specialization.
-
+- [Data Science Tutorial](https://www.scaler.com/topics/data-science/) - Basic to advance level of data science course 
 ## Software
 
 - [modeltime.h2o R package](https://business-science.github.io/modeltime.h2o/): Forecasting with H2O AutoML
