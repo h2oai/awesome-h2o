@@ -60,7 +60,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
-- [Automated machine learning: AI-driven decision making in business analytics]([https://twitter.com/ledell/status/1659243406726696960](https://www.sciencedirect.com/science/article/pii/S2667305323000133) Marc Schmitt. (2023)
+- [Automated machine learning: AI-driven decision making in business analytics](https://www.sciencedirect.com/science/article/pii/S2667305323000133) Marc Schmitt. (2023)
 - [Water-Quality Prediction Based on H2O AutoML and Explainable AI Techniques](https://www.mdpi.com/2073-4441/15/3/475) Hamza Ahmad Madni, Muhammad Umer, Abid Ishaq, Nihal Abuzinadah, Oumaima Saidani, Shtwai Alsubai, Monia Hamdi, Imran Ashraf. (2023)
 - [Which model to choose? Performance comparison of statistical and machine learning models in predicting PM2.5 from high-resolution satellite aerosol optical depth](https://www.sciencedirect.com/science/article/abs/pii/S1352231022002291?dgcid=coauthor) Padmavati Kulkarnia, V.Sreekantha, Adithi R.Upadhyab, Hrishikesh ChandraGautama.  (2022)
 - [ Prospective validation of a transcriptomic severity classifier among patients with suspected acute infection and sepsis in the emergency department](https://pubmed.ncbi.nlm.nih.gov/35467566/) Noa Galtung, Eva Diehl-Wiesenecker, Dana Lehmann, Natallia Markmann, Wilma H Bergström, James Wacker, Oliver Liesenfeld, Michael Mayhew, Ljubomir Buturovic, Roland Luethy, Timothy E Sweeney , Rudolf Tauber, Kai Kappert, Rajan Somasundaram, Wolfgang Bauer. (2022)
